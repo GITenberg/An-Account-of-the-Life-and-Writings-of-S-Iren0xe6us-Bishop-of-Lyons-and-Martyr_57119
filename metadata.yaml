@@ -1,0 +1,26 @@
+_repo: An-Account-of-the-Life-and-Writings-of-S-Iren0xe6us-Bishop-of-Lyons-and-Martyr_57119
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beaven, James
+    birthdate: 1801
+    deathdate: 1875
+    gutenberg_agent_id: '49203'
+    url: http://www.gutenberg.org/2009/agents/49203
+    wikipedia: https://en.wikipedia.org/wiki/James_Beaven
+description: ''
+gutenberg_issued: '2018-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irenaeus, Saint, Bishop of Lyon'
+- GITenberg
+title: 'An Account of the Life and Writings of S. Irenæus, Bishop of Lyons
+
+  and Martyr'
+url: http://www.gutenberg.org/ebooks/57119
